@@ -1,0 +1,6 @@
+{
+  "name": "FocusMind",
+  "description": "Aplicación móvil para estudiantes enfocada en organizar tareas, mantenerse constantes y mejorar los hábitos de estudio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
